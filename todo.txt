@@ -1,0 +1,28 @@
+used my dev gmail account
+NAME: The Merch Perch
+
+1- authentication
+  -normal register
+    -register
+    -forgot password
+  -login
+    -normal
+    -google
+    -facebook
+
+2- Models
+  -User
+  -Category
+  -Product
+
+3- Payment
+  -Braintree payment system
+
+
+  ADD to env:
+    google and facebook cliend ids
+    braintreess ids and keys
+
+4- check the performance of the page content background as scrolling
+
+5- fix the footer and decide wheter you want to keep it at the bottom
